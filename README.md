@@ -60,6 +60,7 @@ flowchart LR
   E --> F[RandomForest on PCA features]
   D --> G[Compare metrics & save plots]
   F --> G
+```
   # Wine Quality PCA
 
   This repository contains a compact, reproducible PCA-based demo for the UCI Wine Quality dataset (id=186). It provides both a small fetch script and an end-to-end demo that performs EDA, preprocessing, PCA, modeling, and saves plots and a short results summary.
