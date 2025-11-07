@@ -1,7 +1,4 @@
-# Wine Quality PCA — Presentation
-
-This README is formatted as a presentation you can use directly for an assignment walk-through. It explains the dataset, shows the pipeline (with Mermaid diagrams), lists key results and visuals, and includes concise interpretation and next steps.
-
+# Wine Quality PCA 
 ---
 
 ## Slide 1 — Project & Goal
